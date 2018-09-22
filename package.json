@@ -1,6 +1,6 @@
 {
   "name": "@functions-io-modules/security.haspermission.mongo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "haspermission mongo",
   "category": "test",
   "public": true,
